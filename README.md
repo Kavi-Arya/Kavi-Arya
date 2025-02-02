@@ -6,7 +6,7 @@
         👽 Hello world!
       </b>
       <br>
-        TEST
+        PlaceHolder
       <br>
       <br>
       <b>
@@ -29,8 +29,8 @@
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     A   X   E   N   I   D   E   火 
 
-arch in ~ 
-  λ echo "Stay Determined!"
+ArchBox in ~ 
+  $ echo "PlaceHolder!"
 ```
 
 <p align="center">
