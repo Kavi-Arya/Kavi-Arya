@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kavi Arya</h1>
-<h3 align="center">A Passionate Linux user from India</h3>>
-<!-- Axenide GitHub Profile -->
-<div align="justify">
-
 <!-- Profile -->
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
