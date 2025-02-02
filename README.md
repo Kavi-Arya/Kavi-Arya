@@ -18,16 +18,16 @@
 
 ```
 
-           .             ​ axenide@world 
+           .             ​ highsociety@5 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : Adriano Tisera 
-        .lllll.          ​ Kernel : NERD-DEV 3.14 
-       ..;'olll.         ​ WM : Hyprland 
-      .dolllcccl.        ​ Shell : fish
-     .lcc'   'ccc.       ​ Uptime : 23 years
-    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+         .ccc.           ​ OS : HighSociety 
+        .lllll.          ​ Kernel : PLACEHOLDER 
+       ..;'olll.         ​ WM : Hyprland/Dwm 
+      .dolllcccl.        ​ Shell : zsh
+     .lcc'   'ccc.       ​ Uptime : 20 years
+    .ccc'     'cc:.      ​ CPU : PLACEHOLDER
    .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     A   X   E   N   I   D   E   火 
+  ."'             '".      
 
 ArchBox in ~ 
   $ echo "PlaceHolder!"
