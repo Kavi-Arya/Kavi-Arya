@@ -35,6 +35,3 @@ arch in ~
 
 <p align="center">
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavi-arya&" alt="kavi-arya" /></p>
-
